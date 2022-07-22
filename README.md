@@ -20,7 +20,7 @@ I try to figure out and understand as many solution as possible
 
 1. Permutaions:
 
-- Understand combination
+- Understand permutation
 
 2. Binary Search Rotated
 
