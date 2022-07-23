@@ -25,3 +25,14 @@ I try to figure out and understand as many solution as possible
 2. Binary Search Rotated
 
 - Recursive implemention
+
+# Day 17
+
+Linked List
+
+1. Singly linked list
+
+- Length
+- Represent
+- Append new node
+- Check node
