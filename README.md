@@ -36,3 +36,8 @@ Linked List
 - Represent
 - Append new node
 - Check node
+- Sum
+
+# Day 18
+
+Recursive singly linked list
