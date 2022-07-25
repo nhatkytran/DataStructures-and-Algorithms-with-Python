@@ -41,3 +41,7 @@ Linked List
 # Day 18
 
 Recursive singly linked list
+
+# Day 19
+
+Remove node
