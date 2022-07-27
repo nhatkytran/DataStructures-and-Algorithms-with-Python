@@ -28,9 +28,7 @@ I try to figure out and understand as many solution as possible
 
 # Day 17
 
-Linked List
-
-1. Singly linked list
+Singly linked list
 
 - Length
 - Represent
@@ -40,8 +38,18 @@ Linked List
 
 # Day 18
 
-Recursive singly linked list
+Singly linked list
+
+- Recursive
 
 # Day 19
 
-Remove node
+Singly linked list
+
+- Remove node
+
+# Day 20
+
+Singly linked list
+
+- Reverse
