@@ -57,3 +57,10 @@ Singly linked list
 # Day 21
 
 Practice recursion with nested array and object
+
+# Day 22
+
+Singly linked list
+
+- Review
+- Zip 2 singly linked lists
