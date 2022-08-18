@@ -64,3 +64,9 @@ Singly linked list
 
 - Review
 - Zip 2 singly linked lists
+
+# Day 23
+
+Singly linked list
+
+- Insert new node
