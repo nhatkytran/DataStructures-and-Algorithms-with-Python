@@ -70,3 +70,7 @@ Singly linked list
 Singly linked list
 
 - Insert new node
+
+# Day 23
+
+Doubly linked list
