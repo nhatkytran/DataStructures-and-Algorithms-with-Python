@@ -78,3 +78,9 @@ Doubly linked list
 # Day 25
 
 Doubly linked list
+
+# Day 26
+
+Stack
+
+- Get some basic ideas of a Stack
