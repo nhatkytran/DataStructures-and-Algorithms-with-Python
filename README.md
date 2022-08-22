@@ -84,3 +84,9 @@ Doubly linked list
 Stack
 
 - Get some basic ideas of a Stack
+
+# Day 27
+
+Stack and Queue
+
+- Implement Stack and Queue with Linked List
