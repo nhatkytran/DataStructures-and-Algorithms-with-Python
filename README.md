@@ -96,3 +96,11 @@ Stack and Queue
 Queue
 
 - Implement Queue with 'Snake moves', Singly Linked List, Iterable, Iterator, OOP
+
+# Day 29
+
+Binary Tree
+
+- Breadth First Traversal
+- Depth First Traversal
+- Recursive Depth First Traversal
