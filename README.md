@@ -104,3 +104,15 @@ Binary Tree
 - Breadth First Traversal
 - Depth First Traversal
 - Recursive Depth First Traversal
+
+# Day 30
+
+Binary Tree
+
+- 3 renditions of Depth First Traversal
+- Tree includes
+- Tree min value
+- Tree max value
+- Count leafs
+- Max Root to Leaf path sum
+- Min Root to Leaf path sum
