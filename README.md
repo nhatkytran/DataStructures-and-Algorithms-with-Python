@@ -116,3 +116,16 @@ Binary Tree
 - Count leafs
 - Max Root to Leaf path sum
 - Min Root to Leaf path sum
+
+# Day 31
+
+Graph
+
+- Implement with Stack
+
+  - Depth First Traversal
+  - Has path
+
+- Breadth First Traversal
+
+  - Has path
