@@ -136,3 +136,5 @@ Graph
 
 - Undirected graph has pah
 - Connected components count
+- Largest component size
+- Smallest component size
