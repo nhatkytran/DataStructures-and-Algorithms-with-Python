@@ -130,7 +130,7 @@ Graph
 
   - Has path
 
-# Day 31
+# Day 32
 
 Graph
 
@@ -138,3 +138,10 @@ Graph
 - Connected components count
 - Largest component size
 - Smallest component size
+
+# Day 33
+
+Tree
+
+- Check level
+- Entire path
