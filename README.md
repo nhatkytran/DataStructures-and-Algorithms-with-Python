@@ -145,3 +145,10 @@ Tree
 
 - Check level
 - Entire path
+
+# Day 34
+
+Graph
+
+- Largest component value
+- Smallest component value
