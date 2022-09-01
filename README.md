@@ -152,3 +152,9 @@ Graph
 
 - Largest component value
 - Smallest component value
+
+# Day 35
+
+Tree
+
+- Fix Zero value of Smallest component value
