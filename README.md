@@ -162,3 +162,10 @@ Tree
 Graph
 
 - Shortest path
+
+# Day 36
+
+Graph
+
+- Island count
+- Minimum island
