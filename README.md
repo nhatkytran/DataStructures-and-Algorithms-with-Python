@@ -177,3 +177,10 @@ Dynamic Programming
 - Fibonacci
 - Grid Traveler
 - Memoization recipe
+
+# Day 38
+
+Dynamic Programming
+
+- Can sum
+- How sum
