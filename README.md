@@ -172,7 +172,7 @@ Graph
 
 # Day 37
 
-Dynamic Programming
+Dynamic Programming - Memoization
 
 - Fibonacci
 - Grid Traveler
@@ -180,7 +180,14 @@ Dynamic Programming
 
 # Day 38
 
-Dynamic Programming
+Dynamic Programming - Memoization
 
 - Can sum
 - How sum
+
+# Day 39
+
+Dynamic Programming - Memoization
+
+- Fibonacci
+- Best sum
