@@ -191,3 +191,14 @@ Dynamic Programming - Memoization
 
 - Fibonacci
 - Best sum
+- Can construct
+- Count construct
+
+# Day 40
+
+Dynamic Programming - Memoization
+
+- Count sum
+- How construct
+- Best construct
+- All construct
