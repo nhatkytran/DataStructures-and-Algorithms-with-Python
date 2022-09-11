@@ -202,3 +202,9 @@ Dynamic Programming - Memoization
 - How construct
 - Best construct
 - All construct
+
+# Day 41
+
+Dynamic Programming - Memoization
+
+- All sum
