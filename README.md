@@ -227,3 +227,13 @@ Dynamic Programming - Tabulation
 - How sum
 - Best sum
 - All sum
+
+# Day 44
+
+Dynamic Programming - Tabulation
+
+- Can construct
+- Count construct
+- How construct
+- Best construct
+- All construct
