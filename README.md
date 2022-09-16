@@ -237,3 +237,9 @@ Dynamic Programming - Tabulation
 - How construct
 - Best construct
 - All construct
+
+# Day 45
+
+Sorting Algorithms
+
+- Selection sort
