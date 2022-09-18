@@ -249,3 +249,9 @@ Sorting Algorithms
 Sorting Algorithms
 
 - Bubble sort
+
+# Day 47
+
+Sorting Algorithms
+
+- Insertion sort
