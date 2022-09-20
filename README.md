@@ -255,3 +255,10 @@ Sorting Algorithms
 Sorting Algorithms
 
 - Insertion sort
+
+# Day 48
+
+Problem Solving Patterns
+
+- Divide And Conquer
+- Frequency Counter
