@@ -262,3 +262,10 @@ Problem Solving Patterns
 
 - Divide And Conquer
 - Frequency Counter
+
+# Day 49
+
+Problem Solving Patterns
+
+- Multiple Pointers
+- Sliding Window
