@@ -269,3 +269,9 @@ Problem Solving Patterns
 
 - Multiple Pointers
 - Sliding Window
+
+# Day 50
+
+Sorting Algorithms
+
+- Merge sort
