@@ -275,3 +275,9 @@ Problem Solving Patterns
 Sorting Algorithms
 
 - Merge sort
+
+# Day 51
+
+Sorting Algorithms
+
+- Partition in Quick sort
