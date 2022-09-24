@@ -281,3 +281,9 @@ Sorting Algorithms
 Sorting Algorithms
 
 - Partition in Quick sort
+
+# Day 52
+
+Sorting Algorithms
+
+- Quick sort
