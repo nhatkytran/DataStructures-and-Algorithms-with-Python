@@ -287,3 +287,9 @@ Sorting Algorithms
 Sorting Algorithms
 
 - Quick sort
+
+# Day 53
+
+Sorting Algorithms
+
+- Counting sort
