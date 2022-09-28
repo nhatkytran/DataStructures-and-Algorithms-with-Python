@@ -305,3 +305,4 @@ Sorting Algorithms
 Sorting Algorithms
 
 - Radix sort
+- Bucket sort
