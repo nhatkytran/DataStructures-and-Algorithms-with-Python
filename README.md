@@ -312,3 +312,9 @@ Sorting Algorithms
 Sorting Algorithms
 
 - Shell sort
+
+# Day 57
+
+Linked List
+
+- Review
