@@ -318,3 +318,9 @@ Sorting Algorithms
 Linked List
 
 - Review
+
+# Day 58
+
+Hash Map
+
+- Chaining
