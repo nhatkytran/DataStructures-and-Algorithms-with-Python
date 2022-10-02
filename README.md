@@ -324,3 +324,9 @@ Linked List
 Hash Map
 
 - Chaining
+
+# Day 59
+
+Hash Map
+
+- Probing
