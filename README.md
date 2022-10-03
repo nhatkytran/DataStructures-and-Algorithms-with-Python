@@ -330,3 +330,9 @@ Hash Map
 Hash Map
 
 - Probing
+
+# Day 60
+
+Miscellaneous
+
+- Cartesian product
