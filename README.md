@@ -336,3 +336,7 @@ Hash Map
 Miscellaneous
 
 - Cartesian product
+
+# Day 61
+
+Doubly linked list
