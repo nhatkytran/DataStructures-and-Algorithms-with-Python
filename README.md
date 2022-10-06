@@ -340,3 +340,9 @@ Miscellaneous
 # Day 61
 
 Doubly linked list
+
+# Day 61
+
+Miscellaneous
+
+- Amazon currying function
