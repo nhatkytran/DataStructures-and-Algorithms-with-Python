@@ -352,3 +352,9 @@ Miscellaneous
 Miscellaneous
 
 - Staircase (count)
+
+# Day 64
+
+Miscellaneous
+
+- Staircase (all)
