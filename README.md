@@ -341,8 +341,14 @@ Miscellaneous
 
 Doubly linked list
 
-# Day 61
+# Day 62
 
 Miscellaneous
 
 - Amazon currying function
+
+# Day 63
+
+Miscellaneous
+
+- Staircase (count)
