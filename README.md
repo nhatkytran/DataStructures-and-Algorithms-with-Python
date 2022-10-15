@@ -360,3 +360,9 @@ Miscellaneous
 - Staircase (all)
 - Staircase (best)
 - Recursive staircase (count, all, best)
+
+# Day 65
+
+Miscellaneous
+
+- Tower of Hanoi
