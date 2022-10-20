@@ -366,3 +366,9 @@ Miscellaneous
 Miscellaneous
 
 - Tower of Hanoi
+
+# Day 66
+
+SjmallChalenj
+
+- Remove duplicate characters
