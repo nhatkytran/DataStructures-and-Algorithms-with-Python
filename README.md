@@ -372,3 +372,7 @@ Miscellaneous
 SjmallChalenj
 
 - Remove duplicate characters
+
+# Day 67
+
+Check Same Type Object Project
