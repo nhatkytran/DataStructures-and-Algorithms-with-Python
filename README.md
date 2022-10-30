@@ -376,3 +376,9 @@ SjmallChalenj
 # Day 67
 
 Check Same Type Object Project
+
+# Day 68
+
+Check Same Type Object Project
+
+- Refining and Improving the code
