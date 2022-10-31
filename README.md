@@ -382,3 +382,9 @@ Check Same Type Object Project
 Check Same Type Object Project
 
 - Refining and Improving the code
+
+# Day 69
+
+Check Same Type Object Project
+
+- Refining and Improving the code
