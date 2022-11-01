@@ -388,3 +388,9 @@ Check Same Type Object Project
 Check Same Type Object Project
 
 - Refining and Improving the code
+
+# Day 70
+
+Check Same Type Object Project
+
+- Auto correct bad types (string, number (integer))
