@@ -394,3 +394,9 @@ Check Same Type Object Project
 Check Same Type Object Project
 
 - Auto correct bad types (string, number (integer))
+
+# Day 71
+
+Check Same Type Object Project
+
+- Raise Exception
