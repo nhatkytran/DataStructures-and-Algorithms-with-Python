@@ -400,3 +400,9 @@ Check Same Type Object Project
 Check Same Type Object Project
 
 - Raise Exception
+
+# Day 72
+
+Binary Tree
+
+- Find all paths
