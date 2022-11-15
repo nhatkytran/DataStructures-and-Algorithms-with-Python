@@ -406,3 +406,9 @@ Check Same Type Object Project
 Binary Tree
 
 - Find all paths
+
+# Day 73
+
+Binary Search Tree
+
+- Check BST
