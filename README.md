@@ -412,3 +412,19 @@ Binary Tree
 Binary Search Tree
 
 - Check BST
+
+* Inorder
+* False, None, Max
+* -Inf --> +Inf
+
+- Delete
+
+* 2 cases: root and node
+* return None, 1 Node and Replace root value + Delete
+
+# Day 74
+
+Binary Search Tree
+
+- Successor
+- Precessor
