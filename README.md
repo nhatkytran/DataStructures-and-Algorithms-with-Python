@@ -428,3 +428,12 @@ Binary Search Tree
 
 - Successor
 - Precessor
+
+# Day 75
+
+Balanced Binary Search Tree - AVL Tree
+
+- Check Balanced BST
+
+* Check from top to bottom
+* Check from bottom up to top
