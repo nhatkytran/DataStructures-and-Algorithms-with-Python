@@ -437,3 +437,9 @@ Balanced Binary Search Tree - AVL Tree
 
 * Check from top to bottom
 * Check from bottom up to top
+
+# Day 76
+
+Balanced Binary Search Tree - AVL Tree
+
+- Rotation
