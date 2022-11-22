@@ -443,3 +443,9 @@ Balanced Binary Search Tree - AVL Tree
 Balanced Binary Search Tree - AVL Tree
 
 - Rotation
+
+# Day 77
+
+Balanced Binary Search Tree - AVL Tree
+
+- Balanced Insertion
