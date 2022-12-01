@@ -449,3 +449,13 @@ Balanced Binary Search Tree - AVL Tree
 Balanced Binary Search Tree - AVL Tree
 
 - Balanced Insertion
+
+# Day 78
+
+Review Binary Search Tree - 1
+
+- Insert
+- Remove
+- Successor
+- Precessor
+- Check BST
