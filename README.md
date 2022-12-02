@@ -459,3 +459,10 @@ Review Binary Search Tree - 1
 - Successor
 - Precessor
 - Check BST
+
+# Day 79
+
+Review Binary Search Tree - 2
+
+- Check balanced
+- Rotate (4 types)
