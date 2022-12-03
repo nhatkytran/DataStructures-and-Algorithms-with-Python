@@ -466,3 +466,9 @@ Review Binary Search Tree - 2
 
 - Check balanced
 - Rotate (4 types)
+
+# Day 80
+
+Review Binary Search Tree - 3
+
+- Learn new logic with Check balanced
