@@ -472,3 +472,7 @@ Review Binary Search Tree - 2
 Review Binary Search Tree - 3
 
 - Learn new logic with Check balanced
+
+# Day 81
+
+AVL Tree
