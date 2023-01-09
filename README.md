@@ -476,3 +476,7 @@ Review Binary Search Tree - 3
 # Day 81
 
 AVL Tree
+
+# Day 82
+
+NeetCode - Arrays & Hashing - Contains Duplicate
