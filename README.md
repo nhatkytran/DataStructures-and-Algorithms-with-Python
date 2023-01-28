@@ -492,3 +492,7 @@ NeetCode - Linked List - Find Duplicate Number - Floyd's Tortoise and Hare
 # Day 85
 
 NeetCode - Arrays & Hashing - Valid Anagram
+
+# Day 86
+
+NeetCode - Arrays & Hashing - Replace Elements with Greatest Element on Right Side
