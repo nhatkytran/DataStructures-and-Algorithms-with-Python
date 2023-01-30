@@ -496,3 +496,7 @@ NeetCode - Arrays & Hashing - Valid Anagram
 # Day 86
 
 NeetCode - Arrays & Hashing - Replace Elements with Greatest Element on Right Side
+
+# Day 87
+
+NeetCode - Arrays & Hashing - Is Subsequence

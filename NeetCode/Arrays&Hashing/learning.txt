@@ -35,3 +35,15 @@ Input: arr = [400]
 Output: [-1]
 Explanation: There are no elements to the right of index 0.
 *** Tip: Backward --> O(n)
+
+>>> Is Subsequence --> isSubsequence.ipynb
+--> Given two strings s and t, return true if s is a subsequence of t, or false otherwise.
+--> A subsequence of a string is a new string that is formed from the original string \
+by deleting some (can be none) of the characters without disturbing the relative positions \
+of the remaining characters. (i.e., "ace" is a subsequence of "abcde" while "aec" is not).
+---
+Input: s = "abc", t = "ahbgdc"
+Output: true
+---
+Input: s = "axc", t = "ahbgdc"
+Output: false
