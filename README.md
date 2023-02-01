@@ -500,3 +500,7 @@ NeetCode - Arrays & Hashing - Replace Elements with Greatest Element on Right Si
 # Day 87
 
 NeetCode - Arrays & Hashing - Is Subsequence
+
+# Day 88
+
+NeetCode - Arrays & Hashing - Length of Last Word
