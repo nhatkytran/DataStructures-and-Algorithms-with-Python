@@ -512,3 +512,7 @@ NeetCode - Arrays & Hashing - Two Sum
 # Day 90
 
 NeetCode - Arrays & Hashing - Longest Common Prefix
+
+# Day 91
+
+NeetCode - Arrays & Hashing - Pascal's Triangle
