@@ -516,3 +516,7 @@ NeetCode - Arrays & Hashing - Longest Common Prefix
 # Day 91
 
 NeetCode - Arrays & Hashing - Pascal's Triangle
+
+# Day 92
+
+NeetCode - Arrays & Hashing - Remove Element
