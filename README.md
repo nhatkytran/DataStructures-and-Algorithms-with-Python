@@ -528,3 +528,7 @@ NeetCode - Arrays & Hashing - Unique Email Addresses
 # Day 94
 
 NeetCode - Arrays & Hashing - Concatenation of Array
+
+# Day 95
+
+NeetCode - Arrays & Hashing - Can Place Flowers

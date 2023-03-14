@@ -153,3 +153,11 @@ Output: false
 ---
 Input: s = "paper", t = "title"
 Output: true
+
+>>> Can Place Flowers --> canPlaceFlowers.ipynb
+---
+Input: flowerbed = [1,0,0,0,1], n = 1
+Output: true
+---
+Input: flowerbed = [1,0,0,0,1], n = 2
+Output: false
