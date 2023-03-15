@@ -532,3 +532,7 @@ NeetCode - Arrays & Hashing - Concatenation of Array
 # Day 95
 
 NeetCode - Arrays & Hashing - Can Place Flowers
+
+# Day 96
+
+NeetCode - Arrays & Hashing - Can Place Flowers - More solutions
