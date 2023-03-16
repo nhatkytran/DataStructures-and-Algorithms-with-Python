@@ -536,3 +536,7 @@ NeetCode - Arrays & Hashing - Can Place Flowers
 # Day 96
 
 NeetCode - Arrays & Hashing - Can Place Flowers - More solutions
+
+# Day 97
+
+NeetCode - Arrays & Hashing - Majority Element

@@ -161,3 +161,11 @@ Output: true
 ---
 Input: flowerbed = [1,0,0,0,1], n = 2
 Output: false
+
+>>> Majority Element --> majorityElement.ipynb
+---
+Input: nums = [3,2,3]
+Output: 3
+---
+Input: nums = [2,2,1,1,1,2,2]
+Output: 2
