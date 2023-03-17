@@ -540,3 +540,7 @@ NeetCode - Arrays & Hashing - Can Place Flowers - More solutions
 # Day 97
 
 NeetCode - Arrays & Hashing - Majority Element
+
+# Day 98
+
+NeetCode - Arrays & Hashing - Next Greater Element I
