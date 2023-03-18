@@ -544,3 +544,7 @@ NeetCode - Arrays & Hashing - Majority Element
 # Day 98
 
 NeetCode - Arrays & Hashing - Next Greater Element I
+
+# Day 99
+
+NeetCode - Arrays & Hashing - Next Greater Element I - More solutions
