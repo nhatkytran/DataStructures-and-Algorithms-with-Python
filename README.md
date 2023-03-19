@@ -548,3 +548,7 @@ NeetCode - Arrays & Hashing - Next Greater Element I
 # Day 99
 
 NeetCode - Arrays & Hashing - Next Greater Element I - More solutions
+
+# Day 100
+
+NeetCode - Arrays & Hashing - Find Pivot Index
