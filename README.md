@@ -552,3 +552,7 @@ NeetCode - Arrays & Hashing - Next Greater Element I - More solutions
 # Day 100
 
 NeetCode - Arrays & Hashing - Find Pivot Index
+
+# Day 101
+
+NeetCode - Arrays & Hashing - Range Sum Query - Immutable
