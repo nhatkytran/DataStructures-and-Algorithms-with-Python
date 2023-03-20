@@ -226,3 +226,25 @@ Output: [5,6]
 ---
 Input: nums = [1,1]
 Output: [2]
+
+>>> Maximum Number of Balloons --> maximumNumberOfBalloons.ipynb
+---
+Input: text = "nlaebolko"
+Output: 1
+---
+Input: text = "loonbalxballpoon"
+Output: 2
+---
+Input: text = "leetcode"
+Output: 0
+
+>>> Word Pattern --> wordPattern.ipynb
+---
+Input: pattern = "abba", s = "dog cat cat dog"
+Output: true
+---
+Input: pattern = "abba", s = "dog cat cat fish"
+Output: false
+---
+Input: pattern = "aaaa", s = "dog cat cat dog"
+Output: false
