@@ -558,3 +558,7 @@ NeetCode - Arrays & Hashing - Find Pivot Index
 NeetCode - Arrays & Hashing - Range Sum Query - Immutable
 NeetCode - Arrays & Hashing - Find All Numbers Disappeared in an Array
 NeetCode - Arrays & Hashing - Maximum Number of Balloons
+
+# Day 102
+
+NeetCode - Arrays & Hashing - Word Pattern
