@@ -248,3 +248,5 @@ Output: false
 ---
 Input: pattern = "aaaa", s = "dog cat cat dog"
 Output: false
+
+>>> Design HashMap --> designHashMap.ipynb
