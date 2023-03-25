@@ -11,3 +11,15 @@ Input: s = " "
 Output: true
 Explanation: s is an empty string "" after removing non-alphanumeric characters.
 Since an empty string reads the same forward and backward, it is a palindrome.
+
+>>> Valid Palindrome II --> validPalindromeII.ipynb
+---
+Input: s = "aba"
+Output: true
+---
+Input: s = "abca"
+Output: true
+Explanation: You could delete the character 'c'
+---
+Input: s = "abc"
+Output: false
