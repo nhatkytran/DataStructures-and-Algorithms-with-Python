@@ -573,20 +573,25 @@ NeetCode - Arrays & Hashing - Design HashMap
 
 # Day 105
 
-NeetCode - Arrays & Hashing - Valid Palindrome
+NeetCode - Two Pointers - Valid Palindrome
 
 # Day 106
 
-NeetCode - Arrays & Hashing - Valid Palindrome II
+NeetCode - Two Pointers - Valid Palindrome II
 
 # Day 107
 
-NeetCode - Arrays & Hashing - Valid Palindrome II
+NeetCode - Two Pointers - Valid Palindrome II
 
 # Day 108
 
-NeetCode - Arrays & Hashing - Valid Palindrome II
+NeetCode - Two Pointers - Valid Palindrome II
 
 # Day 109
 
 Review - Bubble Sort and Selection Sort
+
+# Day 110
+
+NeetCode - Two Pointers - Minimum Difference Between Highest and Lowest of K Scores
+Review - Insertion Sort
