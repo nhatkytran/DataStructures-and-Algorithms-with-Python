@@ -42,3 +42,11 @@ Explanation: There are six ways to pick score(s) of two students:
 - [9,4,1,7]. The difference between the highest and lowest score is 7 - 4 = 3.
 - [9,4,1,7]. The difference between the highest and lowest score is 7 - 1 = 6.
 The minimum possible difference is 2
+
+>>> Reverse String --> reverseString.ipynb
+---
+Input: s = ["h","e","l","l","o"]
+Output: ["o","l","l","e","h"]
+---
+Input: s = ["H","a","n","n","a","h"]
+Output: ["h","a","n","n","a","H"]

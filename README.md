@@ -595,3 +595,13 @@ Review - Bubble Sort and Selection Sort
 
 NeetCode - Two Pointers - Minimum Difference Between Highest and Lowest of K Scores
 Review - Insertion Sort
+
+# Day 111
+
+NeetCode - Two Pointers - Minimum Difference Between Highest and Lowest of K Scores
+Review - Merge Sort
+
+# Day 112
+
+NeetCode - Two Pointers - Reverse String
+Review - Quick Sort
