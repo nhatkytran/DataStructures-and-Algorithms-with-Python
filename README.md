@@ -617,3 +617,7 @@ NeetCode - Two Pointers - Merge Sorted Array
 # Day 115
 
 NeetCode - Two Pointers - Move Zeroes
+
+# Day 116
+
+NeetCode - Two Pointers - Remove Duplicates from Sorted Array
