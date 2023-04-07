@@ -1,7 +1,7 @@
 # Algorithms and Data Structures
 
 I am not looking for the shortest solution for a problem
-I try to figure out and understand as many solution as possible
+I try to figure out and understand as many solutions as possible
 
 ...
 
@@ -629,3 +629,7 @@ NeetCode - Two Pointers - Best Time to Buy and Sell Stock
 # Day 118
 
 NeetCode - Two Pointers - Best Time to Buy and Sell Stock
+
+# Day 119
+
+NeetCode - Two Pointers - Contains Duplicate II

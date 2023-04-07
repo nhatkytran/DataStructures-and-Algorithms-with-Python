@@ -8,3 +8,14 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 Input: prices = [7,6,4,3,1]
 Output: 0
 Explanation: In this case, no transactions are done and the max profit = 0.
+
+>>> Contains Duplicate II --> containsDuplicateII.ipynb
+---
+Input: nums = [1,2,3,1], k = 3
+Output: true
+---
+Input: nums = [1,0,1,1], k = 1
+Output: true
+---
+Input: nums = [1,2,3,1,2,3], k = 2
+Output: false
