@@ -1,0 +1,10 @@
+>>> Valid Parentheses --> validParentheses.ipynb
+---
+Input: s = "()"
+Output: true
+---
+Input: s = "()[]{}"
+Output: true
+---
+Input: s = "(]"
+Output: false

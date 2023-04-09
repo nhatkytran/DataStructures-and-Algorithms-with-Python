@@ -637,3 +637,7 @@ NeetCode - Two Pointers - Contains Duplicate II
 # Day 120
 
 NeetCode - Two Pointers - Contains Duplicate II
+
+# Day 121
+
+NeetCode - Stack - Valid Parentheses
