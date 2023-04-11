@@ -645,3 +645,9 @@ NeetCode - Stack - Valid Parentheses
 # Day 122
 
 NeetCode - Stack - Baseball Game
+NeetCode - Stack - Implement Stack using Queues
+
+# Day 123
+
+NeetCode - Binary Search - Binary Search
+NeetCode - Binary Search - Search Insert Position
