@@ -651,3 +651,8 @@ NeetCode - Stack - Implement Stack using Queues
 
 NeetCode - Binary Search - Binary Search
 NeetCode - Binary Search - Search Insert Position
+
+# Day 124
+
+NeetCode - Binary Search - Guess Number Higher or Lower
+NeetCode - Binary Search - Arranging Coins
