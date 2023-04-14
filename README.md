@@ -656,3 +656,8 @@ NeetCode - Binary Search - Search Insert Position
 
 NeetCode - Binary Search - Guess Number Higher or Lower
 NeetCode - Binary Search - Arranging Coins
+
+# Day 125
+
+NeetCode - Binary Search - Squares of a Sorted Array
+NeetCode - Binary Search - Valid Perfect Square
