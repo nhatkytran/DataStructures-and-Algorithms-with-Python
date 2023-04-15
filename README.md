@@ -661,3 +661,7 @@ NeetCode - Binary Search - Arranging Coins
 
 NeetCode - Binary Search - Squares of a Sorted Array
 NeetCode - Binary Search - Valid Perfect Square
+
+# Day 126
+
+NeetCode - Binary Search - Reverse Linked List
