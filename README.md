@@ -665,3 +665,7 @@ NeetCode - Binary Search - Valid Perfect Square
 # Day 126
 
 NeetCode - Binary Search - Reverse Linked List
+
+# Day 127
+
+NeetCode - Binary Search - Merge Two Sorted Lists
