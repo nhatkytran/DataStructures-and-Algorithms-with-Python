@@ -669,3 +669,7 @@ NeetCode - Binary Search - Reverse Linked List
 # Day 127
 
 NeetCode - Binary Search - Merge Two Sorted Lists
+
+# Day 128
+
+NeetCode - Binary Search - Shuffle the Array
