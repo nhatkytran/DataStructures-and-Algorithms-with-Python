@@ -50,3 +50,11 @@ Output: []
 ---
 Input: list1 = [], list2 = [0]
 Output: [0]
+
+>>> Palindrome Linked List --> palindromeLinkedList.ipynb
+---
+Input: head = [1,2,2,1]
+Output: true
+---
+Input: head = [1,2]
+Output: false
