@@ -688,3 +688,5 @@ LeetCode - Array - Left and Right Sum Differences
 # Day 131
 
 NeetCode - Linked List - Remove Linked List Elements
+LeetCode - Array - Remove Linked List Elements - Kids With the Greatest Number of Candies
+LeetCode - Array - Remove Linked List Elements - Richest Customer Wealth
