@@ -682,3 +682,9 @@ LeetCode - Array - Build Array from Permutation
 
 NeetCode - Linked List - Palindrome Linked List
 Review - Tree - Find path
+LeetCode - Array - Final Value of Variable After Performing Operations
+LeetCode - Array - Left and Right Sum Differences
+
+# Day 131
+
+NeetCode - Linked List - Remove Linked List Elements
