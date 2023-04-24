@@ -699,3 +699,7 @@ NeetCode - Linked List - Remove Duplicates from Sorted List
 # Day 133
 
 NeetCode - Linked List - Middle of the Linked List
+
+# Day 134
+
+LeetCode - Array - How Many Numbers Are Smaller Than the Current Number
