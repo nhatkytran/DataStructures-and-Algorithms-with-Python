@@ -733,3 +733,8 @@ NeetCode - Trees - Binary Tree Preorder Traversal
 
 NeetCode - Trees - Binary Tree Postorder Traversal
 LeetCode - Array - Decompress Run-Length Encoded List
+
+# Day 142
+
+LeetCode - Array - Create Target Array in the Given Order
+LeetCode - Array - Decode XORed Array
