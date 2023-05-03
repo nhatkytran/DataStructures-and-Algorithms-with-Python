@@ -738,3 +738,9 @@ LeetCode - Array - Decompress Run-Length Encoded List
 
 LeetCode - Array - Create Target Array in the Given Order
 LeetCode - Array - Decode XORed Array
+
+# Day 143
+
+NeetCode - Trees - Invert Binary Tree
+LeetCode - Array - Sum Multiples
+LeetCode - Array - Shuffle String
