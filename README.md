@@ -744,3 +744,7 @@ LeetCode - Array - Decode XORed Array
 NeetCode - Trees - Invert Binary Tree
 LeetCode - Array - Sum Multiples
 LeetCode - Array - Shuffle String
+
+# Day 144
+
+NeetCode - Trees - Maximum Depth of Binary Tree
