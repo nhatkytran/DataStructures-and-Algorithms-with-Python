@@ -247,3 +247,29 @@ os.insert(4, "ddddd"); // Inserts (4, "ddddd"), returns ["ddddd", "eeeee"].
 // Concatentating all the chunks returned:
 // [] + ["aaaaa"] + ["bbbbb", "ccccc"] + [] + ["ddddd", "eeeee"] = ["aaaaa", "bbbbb", "ccccc", "ddddd", "eeeee"]
 // The resulting order is the same as the order above.
+
+>>> Difference Between Element Sum and Digit Sum of an Array --> differenceElementAndDigitSum.ipynb
+---
+Input: nums = [1,15,6,3]
+Output: 9
+Explanation: 
+The element sum of nums is 1 + 15 + 6 + 3 = 25.
+The digit sum of nums is 1 + 1 + 5 + 6 + 3 = 16.
+The absolute difference between the element sum and digit sum is |25 - 16| = 9.
+---
+Input: nums = [1,2,3,4]
+Output: 0
+Explanation:
+The element sum of nums is 1 + 2 + 3 + 4 = 10.
+The digit sum of nums is 1 + 2 + 3 + 4 = 10.
+The absolute difference between the element sum and digit sum is |10 - 10| = 0.
+
+>>> Count Items Matching a Rule --> countItemsMatchingRule.ipynb
+---
+Input: items = [["phone","blue","pixel"],["computer","silver","lenovo"],["phone","gold","iphone"]], ruleKey = "color", ruleValue = "silver"
+Output: 1
+Explanation: There is only one item matching the given rule, which is ["computer","silver","lenovo"].
+---
+Input: items = [["phone","blue","pixel"],["computer","silver","phone"],["phone","gold","iphone"]], ruleKey = "type", ruleValue = "phone"
+Output: 2
+Explanation: There are only two items matching the given rule, which are ["phone","blue","pixel"] and ["phone","gold","iphone"]. Note that the item ["computer","silver","phone"] does not match.

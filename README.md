@@ -748,3 +748,10 @@ LeetCode - Array - Shuffle String
 # Day 144
 
 NeetCode - Trees - Maximum Depth of Binary Tree
+
+# Day 145
+
+NeetCode - Trees - Diameter of Binary Tree
+LeetCode - Array - Design an Ordered Stream
+LeetCode - Array - Difference Between Element Sum and Digit Sum of an Array
+LeetCode - Array - Count Items Matching a Rule
