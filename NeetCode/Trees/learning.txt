@@ -69,3 +69,14 @@ Output: false
 ---
 Input: root = []
 Output: true
+
+>>> Same Tree --> sameTree.ipynb
+---
+Input: p = [1,2,3], q = [1,2,3]
+Output: true
+---
+Input: p = [1,2], q = [1,null,2]
+Output: false
+---
+Input: p = [1,2,1], q = [1,1,2]
+Output: false

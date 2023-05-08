@@ -763,3 +763,7 @@ LeetCode - Array - Number of Arithmetic Triplets
 # Day 147
 
 NeetCode - Trees - Balanced Binary Tree
+
+# Day 148
+
+NeetCode - Trees - Same Tree
