@@ -80,3 +80,11 @@ Output: false
 ---
 Input: p = [1,2,1], q = [1,1,2]
 Output: false
+
+>>> Subtree of Another Tree --> subtreeAnotherTree.ipynb
+---
+Input: root = [3,4,5,1,2], subRoot = [4,1,2]
+Output: true
+---
+Input: root = [3,4,5,1,2,null,null,null,null,0], subRoot = [4,1,2]
+Output: false
