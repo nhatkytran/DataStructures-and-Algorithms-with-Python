@@ -321,3 +321,17 @@ For the first iteration, we choose 5. Then sum is 5 and nums = [5,5,6]
 For the second iteration, we choose 6. Then sum is 5 + 6 = 11 and nums = [5,5,7]
 So, we will return 11.
 It can be proven, that 11 is the maximum answer that we can achieve.
+
+>>> Unique Morse Code Words --> uniqueMorseCodeWords.ipynb
+---
+Input: words = ["gin","zen","gig","msg"]
+Output: 2
+Explanation: The transformation of each word is:
+"gin" -> "--...-."
+"zen" -> "--...-."
+"gig" -> "--...--."
+"msg" -> "--...--."
+There are 2 different transformations: "--...-." and "--...--.".
+---
+Input: words = ["a"]
+Output: 1
