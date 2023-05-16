@@ -335,3 +335,17 @@ There are 2 different transformations: "--...-." and "--...--.".
 ---
 Input: words = ["a"]
 Output: 1
+
+>>> Count the Number of Consistent Strings --> countNumberConsistentStrings.ipynb
+---
+Input: allowed = "ab", words = ["ad","bd","aaab","baa","badab"]
+Output: 2
+Explanation: Strings "aaab" and "baa" are consistent since they only contain characters 'a' and 'b'.
+---
+Input: allowed = "abc", words = ["a","b","c","ab","ac","bc","abc"]
+Output: 7
+Explanation: All strings are consistent.
+---
+Input: allowed = "cad", words = ["cc","acd","b","ba","bac","bad","ac","d"]
+Output: 4
+Explanation: Strings "cc", "acd", "ac", and "d" are consistent.

@@ -799,3 +799,7 @@ LeetCode - Array - Maximum Sum With Exactly K Elements
 
 LeetCode - Array - Unique Morse Code Words
 Longest Prefix Suffix String
+
+# Day 156
+
+LeetCode - Array - Count the Number of Consistent Strings
