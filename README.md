@@ -803,3 +803,9 @@ Longest Prefix Suffix String
 # Day 156
 
 LeetCode - Array - Count the Number of Consistent Strings
+
+# Day 157
+
+LeetCode - Array - Minimum Number of Moves to Seat Everyone
+KMP Algorithm
+LeetCode- String - Find the Index of the First Occurrence in a String
