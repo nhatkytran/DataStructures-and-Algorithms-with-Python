@@ -808,4 +808,8 @@ LeetCode - Array - Count the Number of Consistent Strings
 
 LeetCode - Array - Minimum Number of Moves to Seat Everyone
 KMP Algorithm
-LeetCode- String - Find the Index of the First Occurrence in a String
+LeetCode - String - Find the Index of the First Occurrence in a String
+
+# Day 158
+
+LeetCode - Array - Maximum Product Difference Between Two Pairs
