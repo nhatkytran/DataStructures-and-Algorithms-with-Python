@@ -817,3 +817,11 @@ LeetCode - Array - Maximum Product Difference Between Two Pairs
 # Day 159
 
 LeetCode - Array - Sort the People
+
+# Day 160
+
+Review - LeetCode - Array - Sort the People
+
+# Day 161
+
+LeetCode - Array - Sum of All Subset XOR Totals
