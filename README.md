@@ -825,3 +825,7 @@ Review - LeetCode - Array - Sort the People
 # Day 161
 
 LeetCode - Array - Sum of All Subset XOR Totals
+
+# Day 162
+
+LeetCode - Array - Sum of All Subset XOR Totals - More Solutions
