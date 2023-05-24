@@ -829,3 +829,8 @@ LeetCode - Array - Sum of All Subset XOR Totals
 # Day 162
 
 LeetCode - Array - Sum of All Subset XOR Totals - More Solutions
+
+# Day 163
+
+LeetCode - Array - Maximum Product of Two Elements in an Array
+Review - KMP Algorithm
