@@ -838,3 +838,7 @@ Review - KMP Algorithm
 # Day 164
 
 LeetCode - Array - Delete Greatest Value in Each Row
+
+# Day 165
+
+LeetCode - Array - Count Equal and Divisible Pairs in an Array
