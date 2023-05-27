@@ -843,3 +843,8 @@ LeetCode - Array - Delete Greatest Value in Each Row
 
 LeetCode - Array - Count Equal and Divisible Pairs in an Array
 Review - Counting Sort
+
+# Day 166
+
+LeetCode - Array - Matrix Diagonal Sum
+LeetCode - Array - Largest Local Values in a Matrix
