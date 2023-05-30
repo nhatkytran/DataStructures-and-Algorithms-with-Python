@@ -858,3 +858,7 @@ LeetCode - Array - Find the Highest Altitude
 LeetCode - Array - Count Number of Pairs With Absolute Difference K
 LeetCode - Array - Flipping an Image
 LeetCode - Array - Separate the Digits in an Array
+
+# Day 169
+
+LeetCode - Array - Minimum Time Visiting All Points
