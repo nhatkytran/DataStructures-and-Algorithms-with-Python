@@ -873,3 +873,8 @@ Review - Radix Sort
 # Day 171
 
 LeetCode - Array - Minimum Operations to Make the Array Increasing
+
+# Day 172
+
+LeetCode - Array - Find the Difference of Two Arrays
+NeetCode - Trees - Convert Sorted Array to Binary Search Tree
