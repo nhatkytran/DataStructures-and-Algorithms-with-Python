@@ -877,4 +877,9 @@ LeetCode - Array - Minimum Operations to Make the Array Increasing
 # Day 172
 
 LeetCode - Array - Find the Difference of Two Arrays
-NeetCode - Trees - Convert Sorted Array to Binary Search Tree
+LeetCode - Array - Convert Sorted Array to Binary Search Tree
+
+# Day 173
+
+LeetCode - Array - Number of Senior Citizens
+NeetCode - Trees - Merge Two Binary Trees
