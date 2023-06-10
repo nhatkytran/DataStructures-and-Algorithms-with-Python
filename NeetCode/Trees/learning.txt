@@ -139,3 +139,11 @@ Output: 1
 ---
 Input: root = [1,0,48,null,null,12,49]
 Output: 1
+
+>>> Symmetric Tree --> symmetricTree.ipynb
+---
+Input: root = [1,2,2,3,4,4,3]
+Output: true
+---
+Input: root = [1,2,2,null,3,null,3]
+Output: false
