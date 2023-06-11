@@ -1,1 +1,7 @@
 https://www.youtube.com/watch?v=dBGUmUQhjaM&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp
+
+What is Tries? --> Data Structure
+--> Class
+--> 2 members
++ array of size 26
++ boolean variable flag
