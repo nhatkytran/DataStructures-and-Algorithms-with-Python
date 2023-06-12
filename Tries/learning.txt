@@ -1,7 +1,13 @@
 https://www.youtube.com/watch?v=dBGUmUQhjaM&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp
 
 What is Tries? --> Data Structure
+
+Trie?
 --> Class
 --> 2 members
 + array of size 26
-+ boolean variable flag
++ boolean variable flag (default --> False)
+
+Trie --> Trie --> Trie --> ...
+
+1. Insert/Search/Startswith
