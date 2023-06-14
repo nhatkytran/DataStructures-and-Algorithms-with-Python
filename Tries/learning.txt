@@ -12,7 +12,7 @@ Trie?
 
 Trie --> Trie --> Trie --> ...
 
-1. Insert/countWordsEqualTo()/countWordsStartingWith()
+2. Insert/countWordsEnd()/countWordsStartWith()/Erase(Check exist)
 
 Trie
 --> Class

@@ -743,3 +743,26 @@ For index i = 1, there are 2 distinct elements in the prefix and 3 distinct elem
 For index i = 2, there are 2 distinct elements in the prefix and 2 distinct elements in the suffix. Thus, diff[2] = 2 - 2 = 0.
 For index i = 3, there are 3 distinct elements in the prefix and 1 distinct element in the suffix. Thus, diff[3] = 3 - 1 = 2.
 For index i = 4, there are 3 distinct elements in the prefix and no elements in the suffix. Thus, diff[4] = 3 - 0 = 3.
+
+>>> Find Greatest Common Divisor of Array --> findGreatestCommonDivisorArray.ipynb
+---
+Input: nums = [2,5,6,9,10]
+Output: 2
+Explanation:
+The smallest number in nums is 2.
+The largest number in nums is 10.
+The greatest common divisor of 2 and 10 is 2.
+---
+Input: nums = [7,5,6,8,3]
+Output: 1
+Explanation:
+The smallest number in nums is 3.
+The largest number in nums is 8.
+The greatest common divisor of 3 and 8 is 1.
+---
+Input: nums = [3,3]
+Output: 3
+Explanation:
+The smallest number in nums is 3.
+The largest number in nums is 3.
+The greatest common divisor of 3 and 3 is 3.
