@@ -26,3 +26,9 @@ Trie
 --> Class
 + links --> array[26]
 + flag
+
+4. Number of Distinct Substrings in a String
+
+Trie
+--> Class
++ links --> array[26]
