@@ -19,3 +19,10 @@ Trie
 + links --> array[26]
 + ew = 0 (end with)
 + cp = 0 (count prefix)
+
+3. Longest Word with All Prefixes
+
+Trie
+--> Class
++ links --> array[26]
++ flag

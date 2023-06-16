@@ -940,3 +940,8 @@ Tries - Insert/countWordsEnd()/countWordsStartWith()/Erase(Check exist)
 
 LeetCode - Array - Find Numbers with Even Number of Digits
 Review - Tries - Insert/countWordsEnd()/countWordsStartWith()/Erase(Check exist)
+
+# Day 186
+
+LeetCode - Array - Find N Unique Integers Sum up to Zero
+Tries - Longest Word with All Prefixes
