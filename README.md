@@ -946,3 +946,9 @@ Review - Tries - Insert/countWordsEnd()/countWordsStartWith()/Erase(Check exist)
 LeetCode - Array - Find N Unique Integers Sum up to Zero
 Tries - Longest Word with All Prefixes
 Tries - Number of Distinct Substrings in a String
+
+# Day 187
+
+LeetCode - Array - Neither Minimum nor Maximum
+Review - Tries - Longest Word with All Prefixes
+Review - Tries - Number of Distinct Substrings in a String
