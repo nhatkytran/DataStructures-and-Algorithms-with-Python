@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=dSo3UvH5v-A&list=PL5DyztRVgtRUVORP3AXvX91uovcaZv0q9&index=2
+
+1. How to check if ith bit is set or not
+2. How to set the ith bit
+3. Left and Right Shift
+4. Counting number of set bits in a number using Right Shift
+5. XOR and its properties
+
+https://www.youtube.com/results?search_query=bit+manipulation%5C

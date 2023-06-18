@@ -952,3 +952,7 @@ Tries - Number of Distinct Substrings in a String
 LeetCode - Array - Neither Minimum nor Maximum
 Review - Tries - Longest Word with All Prefixes
 Review - Tries - Number of Distinct Substrings in a String
+
+# Day 188
+
+LeetCode - Array - Final Prices With a Special Discount in a Shop

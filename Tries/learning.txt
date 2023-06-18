@@ -32,3 +32,23 @@ Trie
 Trie
 --> Class
 + links --> array[26]
+
+5. Bit PreRequisites
+
+XOR
+1 ^ 0 --> 1
+0 ^ 1 --> 1
+1 ^ 1 --> 0
+0 ^ 0 --> 0
+
+num >> 3 --> Right shift --> like deviding `num` by 2 ** 3 or 8
+
+AND & (Check final bit is 1) --> is set or not set
+1 & 1 --> 1
+---
+1 & 0 --> 0
+0 & 1 --> 0
+0 & 0 --> 0
+2 & 1 --> 0
+
+Turn on --> num OR (num << i)
