@@ -956,3 +956,7 @@ Review - Tries - Number of Distinct Substrings in a String
 # Day 188
 
 LeetCode - Array - Final Prices With a Special Discount in a Shop
+
+# Day 189
+
+LeetCode - Array - Sum of Unique Elements
