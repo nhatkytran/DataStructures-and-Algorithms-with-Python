@@ -960,3 +960,10 @@ LeetCode - Array - Final Prices With a Special Discount in a Shop
 # Day 189
 
 LeetCode - Array - Sum of Unique Elements
+
+# Day 190
+
+LeetCode - Array - N-Repeated Element in Size 2N Array
+Bit Manipulation - Bit left and right shift
+Bit Manipulation - Checking for ith set bit
+Bit Manipulation - Number of set bits in N
