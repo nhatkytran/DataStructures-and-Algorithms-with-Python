@@ -21,4 +21,14 @@ Right shifting: n = n >> i --> n = n / (2 ** i)
 1. Solution using right shift
 2. Solution using n & (n - 1)
 
+LeetCode - Bit Manipulation - Number of 1 Bits
+LeetCode - Bit Manipulation - Counting Bits
+
+*** Power of Two
+
+1. Only store 1 set bit
+2. n & (n - 1) is 0
+
+LeetCode - Bit Manipulation - Power of Two
+
 https://www.youtube.com/results?search_query=bit+manipulation%5C

@@ -967,3 +967,10 @@ LeetCode - Array - N-Repeated Element in Size 2N Array
 Bit Manipulation - Bit left and right shift
 Bit Manipulation - Checking for ith set bit
 Bit Manipulation - Number of set bits in N
+
+# Day 191
+
+LeetCode - Array - Row With Maximum Ones
+LeetCode - Bit Manipulation - Number of 1 Bits
+LeetCode - Bit Manipulation - Counting Bits
+LeetCode - Bit Manipulation - Power of Two
