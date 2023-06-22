@@ -974,3 +974,7 @@ LeetCode - Array - Row With Maximum Ones
 LeetCode - Bit Manipulation - Number of 1 Bits
 LeetCode - Bit Manipulation - Counting Bits
 LeetCode - Bit Manipulation - Power of Two
+
+# Day 192
+
+LeetCode - Bit Manipulation - XOR Queries of a Subarray

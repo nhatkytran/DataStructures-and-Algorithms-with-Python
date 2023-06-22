@@ -31,4 +31,36 @@ LeetCode - Bit Manipulation - Counting Bits
 
 LeetCode - Bit Manipulation - Power of Two
 
+*** Bitwise XOR Operation
+
+1 ^ 0 --> 1
+1 ^ 1 --> 0
+0 ^ 0 --> 0
+
+---
+
+A ^ 0 --> A
+A ^ A --> 0
+
+Ordering of XOR doesn't matter
+
+1310. XOR Queries of a Subarray
+
+prefix[i] = arr[0] ^ arr[1] ^ ... ^ arr[i]
+---
+prefix[R] ^ prex[L - 1] if L > 0
+prefix[R]                  L = 0
+---
+prefix = [arr[0]]
+for i in range(1, len(arr)):
+    prefix.append(prefix[-1] ^ arr[i])
+print(prefix)
+result = []
+for left, right in queries:
+    if left > 0:
+        result.append(prefix[right] ^ prefix[left - 1])
+    else:
+        result.append(prefix[right])
+return result
+
 https://www.youtube.com/results?search_query=bit+manipulation%5C
