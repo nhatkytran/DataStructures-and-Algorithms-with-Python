@@ -978,3 +978,7 @@ LeetCode - Bit Manipulation - Power of Two
 # Day 192
 
 LeetCode - Bit Manipulation - XOR Queries of a Subarray
+
+# Day 193
+
+LeetCode - Array - Find Target Indices After Sorting Array
