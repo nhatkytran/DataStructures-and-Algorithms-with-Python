@@ -982,3 +982,8 @@ LeetCode - Bit Manipulation - XOR Queries of a Subarray
 # Day 193
 
 LeetCode - Array - Find Target Indices After Sorting Array
+
+# Day 194
+
+Bit Manipulation - Pair Sum XOR of an Array
+LeetCode - Array - Find Target Indices After Sorting Array
