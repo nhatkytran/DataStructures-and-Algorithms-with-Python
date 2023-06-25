@@ -987,3 +987,7 @@ LeetCode - Array - Find Target Indices After Sorting Array
 
 Bit Manipulation - Pair Sum XOR of an Array
 LeetCode - Array - Find Target Indices After Sorting Array
+
+# Day 195
+
+LeetCode - Array - Number of Students Doing Homework at a Given Time
