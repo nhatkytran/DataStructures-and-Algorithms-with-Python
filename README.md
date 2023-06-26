@@ -991,3 +991,7 @@ LeetCode - Array - Find Target Indices After Sorting Array
 # Day 195
 
 LeetCode - Array - Number of Students Doing Homework at a Given Time
+
+# Day 196
+
+LeetCode - Array - Height Checker
