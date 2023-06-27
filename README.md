@@ -995,3 +995,7 @@ LeetCode - Array - Number of Students Doing Homework at a Given Time
 # Day 196
 
 LeetCode - Array - Height Checker
+
+# Day 197
+
+LeetCode - Array - Maximum Number of Pairs in Array
