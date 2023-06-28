@@ -999,3 +999,8 @@ LeetCode - Array - Height Checker
 # Day 197
 
 LeetCode - Array - Maximum Number of Pairs in Array
+
+# Day 198
+
+LeetCode - Array - Count the Number of Vowel Strings in Range
+LeetCode - Bit Manipulation - Minimum Flips to Make a OR b Equal to c
