@@ -1009,3 +1009,8 @@ LeetCode - Bit Manipulation - Minimum Flips to Make a OR b Equal to c
 
 LeetCode - Array - Find Maximum Number of String Pairs
 LeetCode - Array - Merge Similar Items
+
+# Day 200
+
+LeetCode - Array - Sort Array By Parity
+LeetCode - Array - Delete Columns to Make Sorted
