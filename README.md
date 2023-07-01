@@ -1014,3 +1014,7 @@ LeetCode - Array - Merge Similar Items
 
 LeetCode - Array - Sort Array By Parity
 LeetCode - Array - Delete Columns to Make Sorted
+
+# Day 201
+
+LeetCode - Array - Unique Number of Occurrences
