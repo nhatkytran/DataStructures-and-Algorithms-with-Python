@@ -1026,3 +1026,8 @@ LeetCode - Array - Two Out of Three
 # Day 203
 
 LeetCode - Array - Sort Integers by The Number of 1 Bits
+
+# Day 204
+
+LeetCode - Array - Divide Array Into Equal Pairs
+LeetCode - Array - Maximum Count of Positive Integer and Negative Integer

@@ -1094,3 +1094,30 @@ The sorted array by bits is [0,1,2,4,8,3,5,6,7]
 Input: arr = [1024,512,256,128,64,32,16,8,4,2,1]
 Output: [1,2,4,8,16,32,64,128,256,512,1024]
 Explantion: All integers have 1 bit in the binary representation, you should just sort them in ascending order.
+
+>>> Divide Array Into Equal Pairs --> divideArrayIntoEqualPairs.ipynb
+---
+Input: nums = [3,2,3,2,2,2]
+Output: true
+Explanation: 
+There are 6 elements in nums, so they should be divided into 6 / 2 = 3 pairs.
+If nums is divided into the pairs (2, 2), (3, 3), and (2, 2), it will satisfy all the conditions.
+---
+Input: nums = [1,2,3,4]
+Output: false
+Explanation: 
+There is no way to divide nums into 4 / 2 = 2 pairs such that the pairs satisfy every condition.
+
+>>> Maximum Count of Positive Integer and Negative Integer --> maximumCountPositiveIntegerAndNegativeInteger.ipynb
+---
+Input: nums = [-2,-1,-1,1,2,3]
+Output: 3
+Explanation: There are 3 positive integers and 3 negative integers. The maximum count among them is 3.
+---
+Input: nums = [-3,-2,-1,0,0,1,2]
+Output: 3
+Explanation: There are 2 positive integers and 3 negative integers. The maximum count among them is 3.
+---
+Input: nums = [5,20,66,1314]
+Output: 4
+Explanation: There are 4 positive integers and 0 negative integers. The maximum count among them is 4.
