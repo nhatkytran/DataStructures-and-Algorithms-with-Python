@@ -1035,3 +1035,7 @@ LeetCode - Array - Maximum Count of Positive Integer and Negative Integer
 # Day 205
 
 LeetCode - Array - Merge Two 2D Arrays by Summing Values
+
+# Day 206
+
+LeetCode - Array - Count Prefixes of a Given String
