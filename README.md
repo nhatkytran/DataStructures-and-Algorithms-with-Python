@@ -1043,3 +1043,7 @@ LeetCode - Array - Count Prefixes of a Given String
 # Day 207
 
 LeetCode - Array - Minimum Subsequence in Non-Increasing Order
+
+# Day 208
+
+NeetCode - Array - Reverse Bits
