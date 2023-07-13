@@ -1055,3 +1055,7 @@ NeetCode - Array - Missing Number
 # Day 210
 
 NeetCode - Array - Shuffle the Array
+
+# Day 211
+
+NeetCode - Array - Shuffle the Array - Bit Manipulation Solution
