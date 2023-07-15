@@ -1059,3 +1059,7 @@ NeetCode - Array - Shuffle the Array
 # Day 211
 
 NeetCode - Array - Shuffle the Array - Bit Manipulation Solution
+
+# Day 212
+
+NeetCode - Array - Kth Distinct String in an Array
