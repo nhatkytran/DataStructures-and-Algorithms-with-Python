@@ -1063,3 +1063,7 @@ NeetCode - Array - Shuffle the Array - Bit Manipulation Solution
 # Day 212
 
 NeetCode - Array - Kth Distinct String in an Array
+
+# Day 213
+
+NeetCode - Array - Keep Multiplying Found Values by Two
