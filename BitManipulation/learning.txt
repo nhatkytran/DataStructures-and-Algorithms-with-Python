@@ -80,3 +80,17 @@ Output: 1
 ---
 Input: a = 1, b = 2, c = 3
 Output: 0
+
+>>> Add to Array-Form of Integer --> addToArrayFormOfInteger.ipynb
+---
+Input: num = [1,2,0,0], k = 34
+Output: [1,2,3,4]
+Explanation: 1200 + 34 = 1234
+---
+Input: num = [2,7,4], k = 181
+Output: [4,5,5]
+Explanation: 274 + 181 = 455
+---
+Input: num = [2,1,5], k = 806
+Output: [1,0,2,1]
+Explanation: 215 + 806 = 1021

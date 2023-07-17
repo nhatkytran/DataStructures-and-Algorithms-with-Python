@@ -1067,3 +1067,7 @@ NeetCode - Array - Kth Distinct String in an Array
 # Day 213
 
 NeetCode - Array - Keep Multiplying Found Values by Two
+
+# Day 214
+
+NeetCode - Array - Add to Array-Form of Integer
