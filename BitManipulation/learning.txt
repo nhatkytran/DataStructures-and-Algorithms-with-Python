@@ -94,3 +94,11 @@ Explanation: 274 + 181 = 455
 Input: num = [2,1,5], k = 806
 Output: [1,0,2,1]
 Explanation: 215 + 806 = 1021
+
+>>> Add Binary --> addBinary.ipynb
+---
+Input: a = "11", b = "1"
+Output: "100"
+---
+Input: a = "1010", b = "1011"
+Output: "10101"

@@ -1071,3 +1071,7 @@ NeetCode - Array - Keep Multiplying Found Values by Two
 # Day 214
 
 NeetCode - Array - Add to Array-Form of Integer
+
+# Day 215
+
+NeetCode - Array - Add Binary
