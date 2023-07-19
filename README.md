@@ -1075,3 +1075,7 @@ NeetCode - Array - Add to Array-Form of Integer
 # Day 215
 
 NeetCode - Array - Add Binary
+
+# Day 216
+
+NeetCode - Array - Add Binary - More Solutions

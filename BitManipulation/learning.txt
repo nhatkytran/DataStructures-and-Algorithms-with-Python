@@ -102,3 +102,11 @@ Output: "100"
 ---
 Input: a = "1010", b = "1011"
 Output: "10101"
+
+>>> Sum of Two Integers --> sumOfTwoIntegers.ipynb
+---
+Input: a = 1, b = 2
+Output: 3
+---
+Input: a = 2, b = 3
+Output: 5
