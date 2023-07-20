@@ -1079,3 +1079,7 @@ NeetCode - Array - Add Binary
 # Day 216
 
 NeetCode - Array - Add Binary - More Solutions
+
+# Day 217
+
+NeetCode - Array - Sum of Squares of Special Elements
