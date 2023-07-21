@@ -1082,4 +1082,8 @@ NeetCode - Array - Add Binary - More Solutions
 
 # Day 217
 
-NeetCode - Array - Sum of Squares of Special Elements
+LeetCode - Array - Sum of Squares of Special Elements
+
+# Day 218
+
+LeetCode - Array - Make Array Zero by Subtracting Equal Amounts
