@@ -1091,3 +1091,7 @@ LeetCode - Array - Make Array Zero by Subtracting Equal Amounts
 # Day 219
 
 LeetCode - Array - Make Two Arrays Equal by Reversing Subarrays
+
+# Day 220
+
+LeetCode - Array - Smallest Index With Equal Value
