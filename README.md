@@ -1099,3 +1099,7 @@ LeetCode - Array - Smallest Index With Equal Value
 # Day 221
 
 LeetCode - Array - Longest Subsequence With Limited Sum
+
+# Day 222
+
+LeetCode - Array - Projection Area of 3D Shapes
