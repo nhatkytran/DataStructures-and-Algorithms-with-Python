@@ -1107,3 +1107,7 @@ LeetCode - Array - Projection Area of 3D Shapes
 # Day 223
 
 LeetCode - Array - Intersection of Two Arrays
+
+# Day 224
+
+LeetCode - Array - Maximum Value of a String in an Array
