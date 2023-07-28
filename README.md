@@ -1111,3 +1111,7 @@ LeetCode - Array - Intersection of Two Arrays
 # Day 224
 
 LeetCode - Array - Maximum Value of a String in an Array
+
+# Day 225
+
+LeetCode - Array - Shortest Distance to a Character
