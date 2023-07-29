@@ -1115,3 +1115,7 @@ LeetCode - Array - Maximum Value of a String in an Array
 # Day 225
 
 LeetCode - Array - Shortest Distance to a Character
+
+# Day 226
+
+LeetCode - Array - Shortest Distance to a Character - More Solutions
