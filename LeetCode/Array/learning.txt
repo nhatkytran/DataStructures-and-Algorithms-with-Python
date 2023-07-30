@@ -1325,3 +1325,24 @@ The closest occurrence of 'e' for index 8 is at index 6, so the distance is abs(
 ---
 Input: s = "aaab", c = "b"
 Output: [3,2,1,0]
+
+>>> Split Strings by Separator --> splitStringsBySeparator.ipynb
+---
+Input: words = ["one.two.three","four.five","six"], separator = "."
+Output: ["one","two","three","four","five","six"]
+Explanation: In this example we split as follows:
+"one.two.three" splits into "one", "two", "three"
+"four.five" splits into "four", "five"
+"six" splits into "six" 
+Hence, the resulting array is ["one","two","three","four","five","six"].
+---
+Input: words = ["$easy$","$problem$"], separator = "$"
+Output: ["easy","problem"]
+Explanation: In this example we split as follows: 
+"$easy$" splits into "easy" (excluding empty strings)
+"$problem$" splits into "problem" (excluding empty strings)
+Hence, the resulting array is ["easy","problem"].
+---
+Input: words = ["|||"], separator = "|"
+Output: []
+Explanation: In this example the resulting split of "|||" will contain only empty strings, so we return an empty array [].
