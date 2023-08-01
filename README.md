@@ -1126,4 +1126,8 @@ LeetCode - Array - Split Strings by Separator
 
 # Day 228
 
-LeetCode - Array - sortArrayByParityII.ipynb
+LeetCode - Array - Sort Array By Parity II
+
+# Day 229
+
+LeetCode - Array - Lucky Numbers in a Matrix
