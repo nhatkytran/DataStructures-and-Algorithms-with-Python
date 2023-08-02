@@ -1131,3 +1131,7 @@ LeetCode - Array - Sort Array By Parity II
 # Day 229
 
 LeetCode - Array - Lucky Numbers in a Matrix
+
+# Day 330
+
+LeetCode - Array - Number of Employees Who Met the Target
