@@ -1132,6 +1132,10 @@ LeetCode - Array - Sort Array By Parity II
 
 LeetCode - Array - Lucky Numbers in a Matrix
 
-# Day 330
+# Day 230
 
 LeetCode - Array - Number of Employees Who Met the Target
+
+# Day 231
+
+LeetCode - Array - Number of Unequal Triplets in Array
