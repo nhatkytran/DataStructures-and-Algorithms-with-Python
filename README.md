@@ -1139,3 +1139,7 @@ LeetCode - Array - Number of Employees Who Met the Target
 # Day 231
 
 LeetCode - Array - Number of Unequal Triplets in Array
+
+# Day 232
+
+LeetCode - Array - The K Weakest Rows in a Matrix
