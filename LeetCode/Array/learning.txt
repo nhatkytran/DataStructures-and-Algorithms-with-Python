@@ -1475,3 +1475,14 @@ Output: false
 Explanation:
 - 'a' appears at indices 0 and 1 so there are zero letters between them.
 Because distance[0] = 1, s is not a well-spaced string.
+
+>>> Keyboard Row --> keyboardRow.ipynb
+---
+Input: words = ["Hello","Alaska","Dad","Peace"]
+Output: ["Alaska","Dad"]
+---
+Input: words = ["omk"]
+Output: []
+---
+Input: words = ["adsdf","sfd"]
+Output: ["adsdf","sfd"]
