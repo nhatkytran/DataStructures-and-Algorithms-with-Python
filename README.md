@@ -1175,3 +1175,7 @@ LeetCode - Array - Minimum Absolute Difference
 # Day 240
 
 LeetCode - Array - Count Pairs Of Similar Strings
+
+# Day 241
+
+LeetCode - Array - Find the Array Concatenation Value
