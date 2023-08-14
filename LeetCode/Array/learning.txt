@@ -1585,3 +1585,17 @@ Then we delete them from the nums, so nums becomes equal to [13].
 nums has only one element, so we pick 13 and add it to the concatenation value, so it becomes equal to 673.
 Then we delete it from nums, so nums become empty.
 Since the concatenation value is 673 so the answer is 673.
+
+>>> Smallest Range I --> smallestRangeI.ipynb
+---
+Input: nums = [1], k = 0
+Output: 0
+Explanation: The score is max(nums) - min(nums) = 1 - 1 = 0.
+---
+Input: nums = [0,10], k = 2
+Output: 6
+Explanation: Change nums to be [2, 8]. The score is max(nums) - min(nums) = 8 - 2 = 6.
+---
+Input: nums = [1,3,6], k = 3
+Output: 0
+Explanation: Change nums to be [4, 4, 4]. The score is max(nums) - min(nums) = 4 - 4 = 0.

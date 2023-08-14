@@ -1179,3 +1179,7 @@ LeetCode - Array - Count Pairs Of Similar Strings
 # Day 241
 
 LeetCode - Array - Find the Array Concatenation Value
+
+# Day 242
+
+LeetCode - Array - Smallest Range I
