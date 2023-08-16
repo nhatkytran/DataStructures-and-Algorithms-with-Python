@@ -1187,3 +1187,7 @@ LeetCode - Array - Smallest Range I
 # Day 243
 
 LeetCode - Array - Relative Sort Array
+
+# Day 244
+
+LeetCode - Array - Find Common Characters
