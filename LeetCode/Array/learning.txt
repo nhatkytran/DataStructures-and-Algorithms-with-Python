@@ -1615,3 +1615,17 @@ Output: ["e","l","l"]
 ---
 Input: words = ["cool","lock","cook"]
 Output: ["c","o"]
+
+>>> Toeplitz Matrix --> toeplitzMatrix.ipynb
+---
+Input: matrix = [[1,2,3,4],[5,1,2,3],[9,5,1,2]]
+Output: true
+Explanation:
+In the above grid, the diagonals are:
+"[9]", "[5, 5]", "[1, 1, 1]", "[2, 2, 2]", "[3, 3]", "[4]".
+In each diagonal all elements are the same, so the answer is True.
+---
+Input: matrix = [[1,2],[2,2]]
+Output: false
+Explanation:
+The diagonal "[1, 2]" has different elements.
