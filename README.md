@@ -1195,3 +1195,4 @@ LeetCode - Array - Find Common Characters
 # Day 245
 
 LeetCode - Array - Toeplitz Matrix
+Tries - Maximum XOR of Two Numbers in an Array
