@@ -1200,3 +1200,4 @@ Tries - Maximum XOR of Two Numbers in an Array
 # Day 246
 
 LeetCode - Array - Available Captures for Rook
+Tries - Maximum XOR of Two Numbers in an Array - Review
