@@ -1196,3 +1196,7 @@ LeetCode - Array - Find Common Characters
 
 LeetCode - Array - Toeplitz Matrix
 Tries - Maximum XOR of Two Numbers in an Array
+
+# Day 246
+
+LeetCode - Array - Available Captures for Rook
