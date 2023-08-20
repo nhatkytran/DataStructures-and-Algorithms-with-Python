@@ -1210,3 +1210,7 @@ EventEmitter
 # Day 248
 
 LeetCode - Array - Shift 2D Grid
+
+# Day 249
+
+LeetCode - Array - Find the Middle Index in Array

@@ -1666,3 +1666,19 @@ Output: [[12,0,21,13],[3,8,1,9],[19,7,2,5],[4,6,11,10]]
 ---
 Input: grid = [[1,2,3],[4,5,6],[7,8,9]], k = 9
 Output: [[1,2,3],[4,5,6],[7,8,9]]
+
+>>> Find the Middle Index in Array --> findMiddleIndexInArray.ipynb
+---
+Input: nums = [2,3,-1,8,4]
+Output: 3
+Explanation: The sum of the numbers before index 3 is: 2 + 3 + -1 = 4
+The sum of the numbers after index 3 is: 4 = 4
+---
+Input: nums = [1,-1,4]
+Output: 2
+Explanation: The sum of the numbers before index 2 is: 1 + -1 = 0
+The sum of the numbers after index 2 is: 0
+---
+Input: nums = [2,5]
+Output: -1
+Explanation: There is no valid middleIndex.
