@@ -1227,3 +1227,7 @@ LeetCode - Array - Find Words That Can Be Formed by Characters
 
 LeetCode - Array - Distribute Candies
 Tries - Maximum XOR With an Element From Array
+
+# Day 253
+
+LeetCode - Array - Apply Operations to an Array
