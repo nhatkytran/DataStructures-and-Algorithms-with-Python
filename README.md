@@ -1231,3 +1231,7 @@ Tries - Maximum XOR With an Element From Array
 # Day 253
 
 LeetCode - Array - Apply Operations to an Array
+
+# Day 254
+
+NeetCode - Tries - Implement Trie
