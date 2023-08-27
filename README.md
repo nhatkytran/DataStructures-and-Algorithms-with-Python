@@ -1235,3 +1235,7 @@ LeetCode - Array - Apply Operations to an Array
 # Day 254
 
 NeetCode - Tries - Implement Trie
+
+# Day 255
+
+NeetCode - Tries - Design Add and Search Words Data Structure
