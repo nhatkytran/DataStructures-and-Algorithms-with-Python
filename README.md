@@ -1239,3 +1239,7 @@ NeetCode - Tries - Implement Trie
 # Day 255
 
 NeetCode - Tries - Design Add and Search Words Data Structure
+
+# Day 256
+
+NeetCode - Tries - Design Add and Search Words Data Structure - More Solutions
