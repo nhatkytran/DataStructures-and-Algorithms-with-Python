@@ -1243,3 +1243,7 @@ NeetCode - Tries - Design Add and Search Words Data Structure
 # Day 256
 
 NeetCode - Tries - Design Add and Search Words Data Structure - More Solutions
+
+# Day 257
+
+NeetCode - Heap - Know what is Heap

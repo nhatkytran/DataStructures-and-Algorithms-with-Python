@@ -1,0 +1,14 @@
+BinaryHeap
+
+--> Complete Binary Tree
+--> Max --> Parent nodes are always larger than child nodes
+--> Min --> Parent nodes are always smaller than child nodes
+
+Using Array
+Index --> i
+--> Left child --> 2 * i + 1
+--> Right child --> 2 * i + 2
+
+Insert
+--> Push the value into the values property on the heap
+--> Bubble the value up to its correct spot
