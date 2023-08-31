@@ -1251,3 +1251,7 @@ NeetCode - Heap - Know what is Heap
 # Day 258
 
 NeetCode - Heap - Max Binary Heap - Insert
+
+# Day 259
+
+NeetCode - Heap - Max Binary Heap - Extract Max
