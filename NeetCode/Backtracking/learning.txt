@@ -1,0 +1,5 @@
+Recursion
+--> When a function calls itself until a specified condition is met
+
+BackTracking
+--> Recursion --> Make sure the last guy run first

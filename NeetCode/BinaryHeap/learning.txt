@@ -12,3 +12,13 @@ Index --> i
 Insert
 --> Push the value into the values property on the heap
 --> Bubble the value up to its correct spot
+
+Priority Queue
+--> A data structure where each element has a priority
+--> Elements with higher priorities are served before \
+elements with lower priorities
+
+BigO of Binary Heaps
+--> Insertion - O(logN)
+--> Removal - O(logN)
+--> Search - O(N)

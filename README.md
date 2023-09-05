@@ -1255,3 +1255,7 @@ NeetCode - Heap - Max Binary Heap - Insert
 # Day 259
 
 NeetCode - Heap - Max Binary Heap - Extract Max
+
+# Day 260
+
+Recursion and Backtracking - Re 2. Problems on Recursion | Strivers A2Z DSA Course
