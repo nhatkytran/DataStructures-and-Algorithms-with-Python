@@ -1259,3 +1259,8 @@ NeetCode - Heap - Max Binary Heap - Extract Max
 # Day 260
 
 Recursion and Backtracking - Re 2. Problems on Recursion | Strivers A2Z DSA Course
+
+# Day 261
+
+Recursion and Backtracking - Re 3. Parameterised and Functional Recursion | Strivers A2Z DSA Course
+Recursion and Backtracking - Re 4. Problems on Functional Recursion | Strivers A2Z DSA Course
