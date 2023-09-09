@@ -1271,4 +1271,8 @@ Recursion and Backtracking - Re 5. Multiple Recursion Calls | Problems | Striver
 
 # Day 263
 
-L6. Recursion on Subsequences | Printing Subsequences
+Recursion and Backtracking - L6. Recursion on Subsequences | Printing Subsequences
+
+# Day 264
+
+Recursion and Backtracking - L7. All Kind of Patterns in Recursion | Print All | Print one | Count
