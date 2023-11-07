@@ -1,0 +1,2 @@
+1. Tabulation --> Bottom up
+2. Memoization --> Tow down
