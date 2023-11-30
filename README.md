@@ -1280,3 +1280,8 @@ Recursion and Backtracking - L7. All Kind of Patterns in Recursion | Print All |
 # Day 265
 
 DP 1. Introduction to Dynamic Programming | Memoization | Tabulation | Space Optimization Techniques
+
+# Day 266
+
+Greedy Algorithms - N meetings In One Room
+Greedy Algorithms - Minimum Platforms
